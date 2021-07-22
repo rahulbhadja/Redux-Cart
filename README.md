@@ -1,5 +1,5 @@
 # Redux-Cart
 
 Created shopping cart useing redux.
-It includes redux advanced concepts like handling HTTP requests using action creator thunk.
+It project shows advanced usage of redux like sending HTTP requests using action creator thunk.
 
